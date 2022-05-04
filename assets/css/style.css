@@ -1,0 +1,8 @@
+.rockWall {
+    height: 900px;
+}
+img {
+    width: auto;
+    max-height: 100%;
+    background: scroll;
+}
